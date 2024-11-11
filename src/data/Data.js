@@ -4,51 +4,31 @@ export const navbar = [
     path: "/",
     nav: "Home",
   },
-  {
-    id: 2,
-    path: "/brands",
-    nav: "Brands",
-  },
+
   {
     id: 3,
     path: "/shop",
-    nav: "Our Shop",
+    nav: "Shop",
   },
-  {
-    id: 4,
-    path: "/onsale",
-    nav: "On Sale",
-  },
-  {
-    id: 5,
-    path: "/shop",
-    nav: "Skin Care",
-  },
-  {
-    id: 6,
-    path: "/shop",
-    nav: "Make Up",
-  },
+ 
+
+
   {
     id: 7,
-    path: "/shop",
-    nav: "Hair & Body",
+    path: "/bloge",
+    nav: "Blog",
   },
   {
     id: 8,
-    path: "/shop",
-    nav: "Health & Wellness ",
+    path: "/about",
+    nav: "AboutUs ",
   },
   {
     id: 9,
-    path: "/shop",
-    nav: "Fragrance",
+    path: "/contact",
+    nav: "Countact Us",
   },
-  {
-    id: 10,
-    path: "/shop",
-    nav: "Accessories",
-  },
+
 ];
 
 export const banners = [

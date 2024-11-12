@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <>
       <div
-        className={`${sticky ? "header py-4 sticky top-0 z-50 shadow-xl" : ""}`}
+        className={`${sticky ? "header py-4 sticky top-0 z-50 shadow-xl transition-all" : "transition-all"}`}
       >
         <div className="flex justify-between w-10/12 m-auto py-4 items-center">
           {/* logo */}
